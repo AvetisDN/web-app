@@ -1,18 +1,33 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="home page">
+    
+    <h2>Home page</h2>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum sit esse eaque iure reiciendis, est qui quidem labore quae aspernatur.</p>
+
   </div>
 </template>
 
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
-}
-</script>
