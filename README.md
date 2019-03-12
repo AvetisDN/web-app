@@ -1,5 +1,15 @@
 # web-app
 
+## Project clone
+```
+git clone https://github.com/AvetisDN/web-app.git
+```
+
+## Change directory
+```
+cd web-app
+```
+
 ## Project setup
 ```
 npm install
@@ -9,21 +19,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
